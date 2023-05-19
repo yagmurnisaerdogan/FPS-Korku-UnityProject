@@ -15,6 +15,7 @@ A,S,D,W ve farenin tuşları ile karakter hareket etmekte, space tuşu ile zıpl
 Hareket ederken shift tuşuna basıldığında koşmakta, E tuşu ile belirli nesnelerle
 interaksiyona geçebilmektedir. Farenin sol butonu yardımı ile de ateş etmektedir.
 
-![Uploading ss6.png…]()
+![image](https://github.com/yagmurnisaerdogan/FPS-Korku-UnityProject/assets/100101570/aa1f0144-b729-42a8-8262-02c7f8182ec7)
+
 
 
