@@ -17,3 +17,4 @@ interaksiyona geçebilmektedir. Farenin sol butonu yardımı ile de ateş etmekt
 
 ![Uploading ss6.png…]()
 
+
